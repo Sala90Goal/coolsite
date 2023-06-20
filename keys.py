@@ -1,0 +1,1 @@
+SECRET_KEY = 'pdk8bcv@oy$o4asp2100ymrv(0y$&qy5#oh-i($2s=j4fa4uvp'
